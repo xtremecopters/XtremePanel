@@ -11,7 +11,7 @@
 #include <SD.h>
 
 // library headers
-#include <SmartMatrix_16x32.h>
+#include <SmartMatrix_32x32.h>
 #include <IRremote.h>
 //#define Enable_IRRemote
 
